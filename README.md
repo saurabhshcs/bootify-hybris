@@ -1,5 +1,26 @@
 # bootify-hybris
-This is sample to demonstrate the payment module integration and PDP page of SAP Hybris can bootify
+This is a trail N error practice for making Hybris eCommerce platform based on spring-boot microservices.
+
+1- Core Service - Master Service or mainservice
+2- OrderService
+3- Payment Service
+4- Product Service
+5- Catalogue Service
+6- Promotion Service
+7- MOnitoring Service
+8- Sale Service
+9- Email Service
+10- Notification Service
+11- Search Service
+12- Backoffice SERVICE
+13- Consignment Service
+14- Packaging Service
+15- Delivery Service
+16- ASM Service
+17- UX Service
+18- Review Service
+19- Referral Service
+20- Loyality Service
 
 # spring-elastic-search-dummies
 
