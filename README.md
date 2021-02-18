@@ -23,8 +23,12 @@ This is a trail N error practice for making Hybris eCommerce platform based on s
 19. Referral Service
 20. Loyality Service
 ~~~
-# spring-elastic-search-dummies
+## Messaging - Notification
 
+## Apache Kafka
+ Planned to use Apache Kafka for notification services and event driven development.
+ AMQ or extend use of Apache Kafka for DLQ for excepions and erros.
+ 
 
 ## Build - gradle
 dependencies used - spring-jpa, spring-web, spring-security, io.jsonwebtoken, mysql-connector
@@ -36,6 +40,7 @@ dependencies used - spring-jpa, spring-web, spring-security, io.jsonwebtoken, my
 - Hybris 6.5
 - Gradle
 - MySQL 5.7
+- No SQL (MongoDB)
 
 ## Local environment
 
