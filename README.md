@@ -22,6 +22,8 @@ This is a trail N error practice for making Hybris eCommerce platform based on s
 18. Review Service
 19. Referral Service
 20. Loyality Service
+21. B2B Service
+22. Price Service
 ~~~
 ## Messaging - Notification
 
